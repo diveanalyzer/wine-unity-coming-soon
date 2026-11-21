@@ -2,14 +2,14 @@
   "name": "Wine Unity",
   "short_name": "Wine Unity",
   "description": "Bring Your Bottle. Meet Your People.",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#300006",
   "theme_color": "#300006",
   "icons": [
     {
-      "src": "/icon-512.png",
+      "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
